@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 ICS311 Project Step 4
 Paul Schmitz 2022-04-19
 
